@@ -166,6 +166,7 @@ h3 {
   flex-wrap: wrap;
 }
 .btn-form {
+  width: 374px;
   border: 0;
   cursor: pointer;
   display: block;
