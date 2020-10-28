@@ -46,11 +46,12 @@ body {
   color: #fff;
 }
 .offer {
-  margin-top: 139px;
   width: 606px;
 }
 .wrapper {
   display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 .title {
   font-size: 37px;
