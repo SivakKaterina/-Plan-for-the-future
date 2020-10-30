@@ -191,6 +191,9 @@ footer {
   .container {
     width: 960px;
   }
+  .intro {
+    width: auto;
+  }
 }
 
 /* 768px - 992px */
@@ -239,6 +242,12 @@ footer {
 /* 0px - 576px */
 @media screen and (max-width: 1200px) {
   .container {
+    width: 90%;
+  }
+  .input {
+    width: 90%;
+  }
+  ..btn-form {
     width: 90%;
   }
 }
