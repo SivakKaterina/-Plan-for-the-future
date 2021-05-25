@@ -44,7 +44,10 @@ body {
   padding-top: 62px;
   padding-bottom: 225px;
   color: #fff;
-}
+};
+
+
+
 .offer {
   width: 606px;
 }
@@ -78,6 +81,8 @@ body {
   text-align: center;
   text-decoration: none;
 }
+
+
 
 h1,
 h2,
@@ -184,6 +189,9 @@ footer {
   color: #ffffff;
   justify-content: center;
 }
+.colorText{
+    color: chartreuse;
+}
 
 /* Адаптивность */
 /* 992px - 1200px */
@@ -247,7 +255,7 @@ footer {
   .input {
     width: 90%;
   }
-  ..btn-form {
+  .btn-form {
     width: 90%;
   }
 }
